@@ -1,4 +1,4 @@
-import 'package:demo_iti/models/post.dart';
+import 'package:demo_iti/models/post_model.dart';
 import 'package:demo_iti/services/post_service.dart';
 import 'package:flutter/material.dart';
 

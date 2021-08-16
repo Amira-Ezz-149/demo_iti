@@ -1,4 +1,5 @@
 import 'package:demo_iti/screens/home.dart';
+import 'package:demo_iti/screens/user_screen.dart';
 import 'package:flutter/material.dart';
 
 import 'screens/post_screen.dart';
@@ -17,7 +18,7 @@ class MyApp extends StatelessWidget {
 
         primarySwatch: Colors.blue,
       ),
-      home:PostScreen(),
+      home:UserScreen(),
     );
   }
 }

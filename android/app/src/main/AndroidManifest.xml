@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.demo_iti">
+
    <application
         android:label="demo_iti"
         android:icon="@mipmap/ic_launcher">

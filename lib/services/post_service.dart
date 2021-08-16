@@ -1,5 +1,5 @@
 import 'package:dio/dio.dart';
-import 'package:demo_iti/models/post.dart';
+import 'package:demo_iti/models/post_model.dart';
 
 class PostService{
   String mainUrl = 'https://jsonplaceholder.typicode.com/';
